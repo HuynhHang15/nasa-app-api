@@ -20,7 +20,7 @@ function App() {
         <Router>
           <Navbar/>
           <Switch>
-            <Route path="/" exact component={HomePage}>
+            <Route path="/Nasa-app-api-React" exact component={HomePage}>
               <HomePage/>
             </Route>
             <Route path="/anyphoto" exact component={AnyPhoto}>
