@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nasa-app-api-React/static/css/main.3a25112f.css",
+    "main.js": "/Nasa-app-api-React/static/js/main.bdaeabf6.js",
+    "static/media/Earth_Background.mp4": "/Nasa-app-api-React/static/media/Earth_Background.db5a6b2ac08dab7e7e6f.mp4",
+    "static/media/NASA_logo.png": "/Nasa-app-api-React/static/media/NASA_logo.e9895fc2d216d92251bb.png",
+    "index.html": "/Nasa-app-api-React/index.html",
+    "main.3a25112f.css.map": "/Nasa-app-api-React/static/css/main.3a25112f.css.map",
+    "main.bdaeabf6.js.map": "/Nasa-app-api-React/static/js/main.bdaeabf6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a25112f.css",
+    "static/js/main.bdaeabf6.js"
+  ]
+}
